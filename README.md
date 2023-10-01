@@ -45,9 +45,11 @@ As an aspiring software developer passionate about creating exceptional web expe
 </a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://react.dev/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
+<a href="https://nodejs.org/en/docs" target="_blank"><img style="margin: 30px" src="https://image.pngaaa.com/668/4547668-middle.png" alt="Node js" height="50" />
 </a>
-<a href="https://nextjs.org/docs/pages/api-reference/" target="_blank"><img style="margin: 20px" src="https://miro.medium.com/v2/resize:fit:650/1*oAwGDARfOzWoZnq1Rhingg.png" alt="NextJS" height="50" />
+<a href="https://react.dev/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
+</a>
+<a href="https://nextjs.org/docs/pages/api-reference/" target="_blank"><img style="margin: 30px" src="https://miro.medium.com/v2/resize:fit:650/1*oAwGDARfOzWoZnq1Rhingg.png" alt="NextJS" height="50" />
 </a>
 </div> 
 
