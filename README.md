@@ -40,6 +40,10 @@ As an aspiring software developer passionate about creating exceptional web expe
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<a href="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3219990/nextjs-icon-md.png" target="_blank"><img style="margin: 10px" src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="Next" height="50" />
+</a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
+</a>
 </div> 
 
 
