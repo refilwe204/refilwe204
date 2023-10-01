@@ -34,15 +34,20 @@ As an aspiring software developer passionate about creating exceptional web expe
 <br/>  
 
 ## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<div align="center"> 
+<a href="https://https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" alt="VS code" height="75" />
+</a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />
+</a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />
+</a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3219990/nextjs-icon-md.png" target="_blank"><img style="margin: 10px" src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="Next" height="50" />
-</a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" />
+</a>
+<a href="https://nextjs.org/docs/pages/api-reference/" target="_blank"><img style="margin: 20px" src="https://miro.medium.com/v2/resize:fit:650/1*oAwGDARfOzWoZnq1Rhingg.png" alt="NextJS" height="50" />
 </a>
 </div> 
 
