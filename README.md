@@ -31,6 +31,8 @@ As an aspiring software developer passionate about creating exceptional web expe
 - ⚡ Fun fact: I can sing!
 
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2SeTinGEKNQAAAAM/codelikeagirl.gif">
+
 <br/>  
 
 ## Languages and Tools  
