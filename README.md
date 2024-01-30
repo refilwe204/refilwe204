@@ -7,9 +7,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## I am an aspiring Software developer and a mother!
+## I am a Software engineer!
 
-As an aspiring software developer passionate about creating exceptional web experiences. My journey in the world of coding has led me to proficiency in a variety of front-end technologies, including HTML, CSS, JavaScript, React, and Next.js. My GitHub repository is a testament to my commitment to crafting innovative and user-friendly web solutions.
+As a software engineeer passionate about creating exceptional web experiences. My journey in the world of coding has led me to proficiency in a variety of front-end technologies, including HTML, CSS, JavaScript, React, and Next.js. My GitHub repository is a testament to my commitment to crafting innovative and user-friendly web solutions.
 
 🚀 In my projects, you'll find responsive web designs that adapt seamlessly to various devices, interactive JavaScript applications that engage users, and dynamic web applications built with React and Next.js. I'm constantly pushing my boundaries to stay updated with the latest trends and best practices in web development, ensuring that my code is not only efficient but also maintainable. Join me on my coding adventure, where I'm excited to collaborate, learn, and build impactful web solutions that make a difference!
 
